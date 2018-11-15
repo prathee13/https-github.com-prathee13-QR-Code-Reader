@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  QRReader
 //
-//  Created by Sebastian Hette on 17.07.2017.
-//  Copyright © 2017 MAGNUMIUM. All rights reserved.
+//  Created by Pratheeksha Ravindra Naik on 11.11.2018.
+//  Copyright © 2018. All rights reserved.
 //
 
 import UIKit
